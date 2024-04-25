@@ -16,7 +16,7 @@ def add(a, b):
 def div(a, b):
     """
     a and b must be float or integer #1
-    Compute the quotient of two numbers
+    Compute the quotient of two numbers #2
 
     >>> div(6, 2)
     3.0
