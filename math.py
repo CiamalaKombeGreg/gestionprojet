@@ -1,7 +1,7 @@
 def add(a, b):
     """
     a & b are integer
-    Compute the sum of two numbers
+    Compute the sum of two numbers #3
     a and b are number
 
     >>> add(1, 2)
